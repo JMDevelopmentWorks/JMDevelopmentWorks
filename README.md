@@ -3,7 +3,7 @@
 
 **`Junior FrontEnd Developer`**
 
-<a href="https://wakatime.com/@Matos"><img src="https://wakatime.com/badge/user/3081847d-58fb-4b8f-9dc5-a099e345ca99.svg" alt="Wakatime" /></a>
+<a href="https://wakatime.com/@Matos"><img src="https://wakatime.com/badge/user/3081847d-58fb-4b8f-9dc5-a099e345ca99.svg" alt="Total time coded since Mar 2 2023" /></a>
 
 Hello there! My name's João Matos.<br/>
 I'm a junior FrontEnd Developer who graduated from @Flag.pt. I fell in love with programming, and decided to make a career out of it. My main objective is to build layouts that feel alive but are still intuitive to use. I'm always eager to learn more and i love a good challenge.
